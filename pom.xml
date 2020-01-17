@@ -1,12 +1,6 @@
 <project>
-  ...
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>com.naresh</groupId>
-        <artifactId>nareshlogin</artifactId>
-        <packaging>war</packaging>
-        <modelversion>3.2.3</modelversionversion>
-        <configuration>
-    
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.mycompany.app</groupId>
+  <artifactId>my-app</artifactId>
+  <version>1</version>
 </project>
