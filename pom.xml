@@ -8,10 +8,5 @@
         <packaging>war</packaging>
         <modelversion>3.2.3</modelversionversion>
         <configuration>
-          <webappDirectory>/sample/servlet/container/deploy/directory</webappDirectory>
-        </configuration>
-      </plugin>
-    </plugins>
-  </build>
-  ...
+    
 </project>
