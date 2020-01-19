@@ -7,5 +7,7 @@
   <groupId>org.codehaus.mojo</groupId>
   <artifactId>my-project</artifactId>
   <version>1.0</version>
-  <failOnMissingWebXml>false</failOnMissingWebXml>
+  <configuration>
+	<failOnMissingWebXml>false</failOnMissingWebXml>
+	</configuration>
 </project>
