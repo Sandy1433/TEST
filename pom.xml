@@ -3,5 +3,9 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
   <packaging>war</packaging>
+  <configuration>
+ 		<failOnMissingWebXml>false</failOnMissingWebXml>
+ 	</configuration>
+ </plugin>
   <version>1</version>
 </project>
